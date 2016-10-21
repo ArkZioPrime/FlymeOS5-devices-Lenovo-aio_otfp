@@ -2,6 +2,6 @@
 
 # Based on CM12.1
 
-# Thanks compile author: blue
+# Thanks compile author: bule
 
 # patchrom author: LXSN
